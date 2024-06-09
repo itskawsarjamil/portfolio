@@ -75,6 +75,16 @@ const Intro = () => {
           <h1>Hi,</h1>
           <h3>I&apos;m Kawsar Jamil.</h3>
           <h6>I develop simple yet beautiful websites.</h6>
+          <a
+            style={{ color: "inherit" }}
+            target="_blank"
+            href={
+              "https://drive.google.com/file/d/1omPSVYbEbBlqZ5-Q-ahfzFbS-oyL3SSL/view?usp=sharing"
+            }
+          >
+            Resume
+            {/* <ResumeBtn>Resume</ResumeBtn> */}
+          </a>
         </Text>
       </SubBox>
       <SubBox>
